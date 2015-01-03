@@ -4,3 +4,4 @@ test*
 *.conf
 cxxnet_learner
 Local*
+bin/cxxnet
